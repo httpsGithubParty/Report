@@ -1,2 +1,2 @@
 # Report
-For Reporting Spam to G.P
+Reporting Spam to G.P click [here](https://github.com/httpsGithubParty/Report/issues/new)
